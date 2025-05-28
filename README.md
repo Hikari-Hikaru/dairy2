@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>2025年6月20日 - 新しい挑戦？</title>
+  <title>2025年6月19日 - 新しい挑戦？</title>
   <link rel="stylesheet" href="../style.css"> <!-- 共通CSSの読み込み -->
 </head>
 <body>
@@ -10,7 +10,7 @@
     <h1>HIKARI・HIKARU 日々のブログ</h1>
   </header>
   <main>
-    <h2>2025年6月20日 - 新しい挑戦？</h2>
+    <h2>2025年6月19日 - 新しい挑戦？</h2>
     <p>
       新しいことを何か始めようと思うのですが...<br>
       苦手なことに挑戦しようか、得意なことを極めようか...<br>
